@@ -1,5 +1,5 @@
 {
-	"python_interpreter": "/home/pavel/dev/learning/python/env/bin/python",
+	"python_interpreter": "/home/pavel/dev/learning/python/env/bin",
 	"build_systems":
 	[
 		{
